@@ -1,1 +1,2 @@
-In this article, we will provide conceptual definitions of four vanity-related traits, develop self- report measures of the traits, and have extensively validated these measures. We then demonstrated the relevance of the traits to a number of consumer-related behaviours. Last, we offer a discussion with implications for future research.
+
+Form yourselves into the groups of four or five people and develop marketing plan for the new product.
