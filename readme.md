@@ -30,4 +30,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2022 Abdurrehman Subhani
+[ISC](LICENSE) © 2022 Abdurrehman Subhani 
