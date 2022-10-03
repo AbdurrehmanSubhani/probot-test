@@ -2,7 +2,7 @@
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A bot which beautifies readme files using grammarly api
 
-## Setup
+## Setup 
 
 ```sh
 # Install dependencies
