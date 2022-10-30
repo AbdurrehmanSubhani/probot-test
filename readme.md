@@ -1,6 +1,6 @@
-# Grammarly-Bot
+Hey there Grammarly-Bot just beautified your readme file ;) 
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A bot which beautifies readme files using grammarly api
+ A GitHub App built with [Probot](https://github.com/probot/probot) that beautifies readme files using grammarly api
 
 ## Setup
 
@@ -31,9 +31,3 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 ## License
 
 [ISC](LICENSE) © 2022 Abdurrehman Subhani
-testing
-testing a push
-
-Henlo warld
-Henlo warld
-Henlo warld
