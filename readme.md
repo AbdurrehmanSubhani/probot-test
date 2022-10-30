@@ -38,7 +38,3 @@ testing a push
 
 Henlo warld
 Henlo warld
-Henlo warld
-Henlo warld
-Henlo warld
-Henlo warld
