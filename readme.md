@@ -1,6 +1,10 @@
 Hey there Grammarly-Bot just beautified your readme file ;) 
 
- # Grammarly-Bot
+ 
+
+Hey there Grammarly-Bot just beautified your readme file ;)
+
+# Grammarly-Bot
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A bot which beautifies readme files using grammarly api
 
