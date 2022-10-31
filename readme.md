@@ -10,5 +10,3 @@ Hello World
 Hello World"
 testing
 
-Hello World"
-
