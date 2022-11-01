@@ -1,7 +1,5 @@
-testing probot hmmm
+Hey there Grammarly-Bot just beautified your readme file ;) 
 
-testing pull request changes
-s
 
 Testing if readyme body is accessible
 again
@@ -10,3 +8,4 @@ yet again
 testing multiple commits
 testing multiple commits 2
 testing multiple commits again
+
