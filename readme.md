@@ -1,5 +1,4 @@
 Hey there Grammarly-Bot just beautified your readme file ;) 
 
-
- sadsasdsa
- hellllo warrld
+ 
+Hey there Grammarly-Bot just beautified your readme file ;)
