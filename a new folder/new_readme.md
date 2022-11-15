@@ -1,9 +1,6 @@
 Hey there Grammarly-Bot just beautified your readme file ;) 
 
  
+Hello,
 
-A new readme file
-
-A new readme file
-
-He;llo
+This is a new readme file.
