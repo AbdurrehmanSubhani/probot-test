@@ -1,4 +1,4 @@
-a new readme file
-a new readme file
+Hey there Grammarly-Bot just beautified your readme file ;) 
 
-he;lo
+ 
+This is a new readme file.
